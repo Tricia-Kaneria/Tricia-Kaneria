@@ -1,5 +1,5 @@
 ### Hi there 👋
-###🌱 I’m currently learning on LinkedIn whilst looking for a software developer role
+🌱 I’m currently learning on LinkedIn whilst looking for a software developer role
 
 <!--
 **Tricia-Kaneria/Tricia-Kaneria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
